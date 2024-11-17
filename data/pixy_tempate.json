@@ -1,0 +1,234 @@
+{
+    "version": "1.81.1",
+    "items": [
+        {
+            "id": "27115378-cdd5-4393-a0d6-b0635b69a9db",
+            "date": "2024-11-16",
+            "dateTime": "2024-11-16T14:18:31.298Z",
+            "rating": "very_good",
+            "message": "test text",
+            "emotions": [
+                "happy",
+                "hopeful"
+            ],
+            "tags": [
+                {
+                    "id": "16"
+                },
+                {
+                    "id": "3"
+                },
+                {
+                    "id": "4"
+                }
+            ],
+            "sleep": {
+                "quality": null
+            },
+            "createdAt": "2024-11-16T14:18:31.308Z"
+        },
+        {
+            "id": "d9b6886d-e1d6-4ad9-bde9-30c15eb5d67a",
+            "date": "2024-11-15",
+            "dateTime": "2024-11-15T19:40:00.000Z",
+            "rating": "extremely_good",
+            "message": "",
+            "emotions": [],
+            "tags": [],
+            "sleep": {
+                "quality": null
+            },
+            "createdAt": "2024-11-17T19:40:24.462Z"
+        },
+        {
+            "id": "41ad44a1-c3e5-468d-be0c-e669b9964333",
+            "date": "2024-11-14",
+            "dateTime": "2024-11-14T19:41:00.000Z",
+            "rating": "good",
+            "message": "",
+            "emotions": [],
+            "tags": [],
+            "sleep": {
+                "quality": null
+            },
+            "createdAt": "2024-11-17T19:41:00.100Z"
+        },
+        {
+            "id": "5cec06c0-6e4a-42d6-8f72-cbafdeb82755",
+            "date": "2024-11-13",
+            "dateTime": "2024-11-13T19:41:00.000Z",
+            "rating": "neutral",
+            "message": "",
+            "emotions": [],
+            "tags": [],
+            "sleep": {
+                "quality": null
+            },
+            "createdAt": "2024-11-17T19:41:07.428Z"
+        },
+        {
+            "id": "10b0885a-5c15-48eb-b686-81c321947208",
+            "date": "2024-11-12",
+            "dateTime": "2024-11-12T19:41:00.000Z",
+            "rating": "bad",
+            "message": "",
+            "emotions": [],
+            "tags": [],
+            "sleep": {
+                "quality": null
+            },
+            "createdAt": "2024-11-17T19:41:23.812Z"
+        },
+        {
+            "id": "69671959-ecfa-4d29-bbb6-3dbdd642df53",
+            "date": "2024-11-11",
+            "dateTime": "2024-11-11T19:41:00.000Z",
+            "rating": "very_bad",
+            "message": "",
+            "emotions": [],
+            "tags": [],
+            "sleep": {
+                "quality": null
+            },
+            "createdAt": "2024-11-17T19:41:28.852Z"
+        },
+        {
+            "id": "b5133849-cde2-471d-a453-aac6b14a6c51",
+            "date": "2024-11-10",
+            "dateTime": "2024-11-10T19:41:00.000Z",
+            "rating": "extremely_bad",
+            "message": "",
+            "emotions": [],
+            "tags": [],
+            "sleep": {
+                "quality": null
+            },
+            "createdAt": "2024-11-17T19:41:35.489Z"
+        }
+    ],
+    "tags": [
+        {
+            "id": "1",
+            "title": "Family 🏡",
+            "color": "slate"
+        },
+        {
+            "id": "2",
+            "title": "Friends 🤝",
+            "color": "orange"
+        },
+        {
+            "id": "3",
+            "title": "Love ❤️",
+            "color": "red"
+        },
+        {
+            "id": "4",
+            "title": "Sport 🏃‍♂️",
+            "color": "blue"
+        },
+        {
+            "id": "5",
+            "title": "Relax 🛀",
+            "color": "teal"
+        },
+        {
+            "id": "6",
+            "title": "Reading 📚",
+            "color": "purple"
+        },
+        {
+            "id": "7",
+            "title": "Cleaning 🧹",
+            "color": "indigo"
+        },
+        {
+            "id": "8",
+            "title": "Sleep early 🛌",
+            "color": "amber"
+        },
+        {
+            "id": "9",
+            "title": "Eat Healthy 🥗",
+            "color": "green"
+        },
+        {
+            "id": "10",
+            "title": "Shopping 🛍️",
+            "color": "pink"
+        },
+        {
+            "id": "11",
+            "title": "Gaming 🎮",
+            "color": "slate"
+        },
+        {
+            "id": "12",
+            "title": "Watching TV 📺",
+            "color": "orange"
+        },
+        {
+            "id": "13",
+            "title": "Mindfulness 🧘‍♂️",
+            "color": "cyan"
+        },
+        {
+            "id": "14",
+            "title": "Nature 🌳",
+            "color": "lime"
+        },
+        {
+            "id": "15",
+            "title": "Creativity 🎨",
+            "color": "teal"
+        },
+        {
+            "id": "16",
+            "title": "Social Media 📱",
+            "color": "blue"
+        },
+        {
+            "id": "17",
+            "title": "Work 💼",
+            "color": "slate"
+        },
+        {
+            "id": "18",
+            "title": "Travel ✈️",
+            "color": "sky"
+        }
+    ],
+    "settings": {
+        "passcodeEnabled": null,
+        "passcode": null,
+        "scaleType": "ColorBrew-RdYlGn",
+        "reminderEnabled": true,
+        "reminderTime": "20:00",
+        "analyticsEnabled": true,
+        "actionsDone": [
+            {
+                "title": "onboarding",
+                "date": "2024-11-16T09:57:21.943Z"
+            },
+            {
+                "title": "question_slide_q2",
+                "date": "2024-11-17T19:41:22.773Z"
+            },
+            {
+                "title": "promo_sleep_tracking_closed",
+                "date": "2024-11-17T19:42:03.803Z"
+            },
+            {
+                "title": "https___pixy_featureos_app_changelog_important_backup_you_data_until_01_06_23",
+                "date": "2024-11-17T19:42:18.663Z"
+            }
+        ],
+        "steps": [
+            "rating",
+            "tags",
+            "emotions",
+            "message",
+            "feedback"
+        ]
+    }
+}

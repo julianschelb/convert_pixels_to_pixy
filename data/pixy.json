@@ -1,0 +1,157 @@
+{
+  "version": "1.81.1",
+  "items": [
+    {
+      "id": "ad32706a-139f-4748-9b1f-9101cb5feee0",
+      "date": "2024-09-15",
+      "dateTime": "2024-09-15T21:07:11.176422Z",
+      "rating": "neutral",
+      "message": "",
+      "emotions": [],
+      "tags": [],
+      "sleep": {
+        "quality": null
+      },
+      "createdAt": "2024-11-17T21:07:11.176433Z"
+    },
+    {
+      "id": "c2db2e1e-d39d-4dca-83fe-be1a8d8c100b",
+      "date": "2024-09-16",
+      "dateTime": "2024-09-16T21:07:11.176444Z",
+      "rating": "good",
+      "message": "",
+      "emotions": [],
+      "tags": [],
+      "sleep": {
+        "quality": null
+      },
+      "createdAt": "2024-11-17T21:07:11.176446Z"
+    },
+    {
+      "id": "cfae4b24-84f0-415a-8530-fe280233a1c5",
+      "date": "2024-09-17",
+      "dateTime": "2024-09-17T21:07:11.176454Z",
+      "rating": "extremely_good",
+      "message": "",
+      "emotions": [],
+      "tags": [],
+      "sleep": {
+        "quality": null
+      },
+      "createdAt": "2024-11-17T21:07:11.176455Z"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1",
+      "title": "Family \ud83c\udfe1",
+      "color": "slate"
+    },
+    {
+      "id": "2",
+      "title": "Friends \ud83e\udd1d",
+      "color": "orange"
+    },
+    {
+      "id": "3",
+      "title": "Love \u2764\ufe0f",
+      "color": "red"
+    },
+    {
+      "id": "4",
+      "title": "Sport \ud83c\udfc3\u200d\u2642\ufe0f",
+      "color": "blue"
+    },
+    {
+      "id": "5",
+      "title": "Relax \ud83d\udec0",
+      "color": "teal"
+    },
+    {
+      "id": "6",
+      "title": "Reading \ud83d\udcda",
+      "color": "purple"
+    },
+    {
+      "id": "7",
+      "title": "Cleaning \ud83e\uddf9",
+      "color": "indigo"
+    },
+    {
+      "id": "8",
+      "title": "Sleep early \ud83d\udecc",
+      "color": "amber"
+    },
+    {
+      "id": "9",
+      "title": "Eat Healthy \ud83e\udd57",
+      "color": "green"
+    },
+    {
+      "id": "10",
+      "title": "Shopping \ud83d\udecd\ufe0f",
+      "color": "pink"
+    },
+    {
+      "id": "11",
+      "title": "Gaming \ud83c\udfae",
+      "color": "slate"
+    },
+    {
+      "id": "12",
+      "title": "Watching TV \ud83d\udcfa",
+      "color": "orange"
+    },
+    {
+      "id": "13",
+      "title": "Mindfulness \ud83e\uddd8\u200d\u2642\ufe0f",
+      "color": "cyan"
+    },
+    {
+      "id": "14",
+      "title": "Nature \ud83c\udf33",
+      "color": "lime"
+    },
+    {
+      "id": "15",
+      "title": "Creativity \ud83c\udfa8",
+      "color": "teal"
+    },
+    {
+      "id": "16",
+      "title": "Social Media \ud83d\udcf1",
+      "color": "blue"
+    },
+    {
+      "id": "17",
+      "title": "Work \ud83d\udcbc",
+      "color": "slate"
+    },
+    {
+      "id": "18",
+      "title": "Travel \u2708\ufe0f",
+      "color": "sky"
+    }
+  ],
+  "settings": {
+    "passcodeEnabled": null,
+    "passcode": null,
+    "scaleType": "ColorBrew-RdYlGn",
+    "reminderEnabled": false,
+    "reminderTime": "18:00",
+    "analyticsEnabled": true,
+    "actionsDone": [
+      {
+        "title": "onboarding",
+        "date": "2024-11-16T09:57:21.943Z"
+      }
+    ],
+    "steps": [
+      "rating",
+      "tags",
+      "emotions",
+      "message",
+      "feedback"
+    ]
+  }
+}

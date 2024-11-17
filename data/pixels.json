@@ -1,0 +1,19 @@
+[
+  {
+    "mood": 3,
+    "date": "2024-09-15",
+    "emotions": []
+  },
+  {
+    "date": "2024-09-16",
+    "mood": 4,
+    "emotions": [],
+    "notes": ""
+  },
+  {
+    "emotions": [],
+    "mood": 5,
+    "date": "2024-09-17",
+    "notes": ""
+  }
+]
